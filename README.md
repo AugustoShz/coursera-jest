@@ -1,1 +1,1 @@
-# ts-namespaces
+# coursera-jest
